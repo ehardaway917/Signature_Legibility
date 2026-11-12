@@ -1,0 +1,16 @@
+model,val_pr_auc,val_roc_auc,val_f1,dev_pr_auc,dev_roc_auc,dev_f1
+CNN (words),0.825,0.836,0.764,0.457,0.657,0.481
+"CNN (words, soft T0.05)",0.827,0.839,0.764,0.452,0.66,0.478
+CNN (words + signature fine-tune),,,,0.447,0.665,0.483
+"CNN (words, soft T0.10)",0.825,0.839,0.766,0.432,0.655,0.475
+"CNN (words + signature fine-tune, soft T0.05)",,,,0.429,0.658,0.484
+"CNN (words, raw similarity)",0.822,0.837,0.78,0.41,0.639,0.47
+"CNN (words + signature fine-tune, soft T0.10)",,,,0.403,0.644,0.475
+"CNN (words + signature fine-tune, raw similarity)",,,,0.401,0.633,0.484
+SVM (RBF),0.769,0.795,0.729,0.385,0.595,0.42
+Random forest,0.78,0.801,0.733,0.375,0.573,0.417
+Gradient boosting,0.786,0.806,0.741,0.357,0.563,0.4
+Logistic regression,0.772,0.796,0.73,0.334,0.566,0.379
+Logistic (length only),0.544,0.572,0.676,0.314,0.54,0.442
+Majority baseline,0.502,0.5,0.668,0.293,0.5,0.453
+Logistic (contrast only),0.503,0.503,0.67,0.293,0.501,0.454

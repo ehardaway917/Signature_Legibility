@@ -1,0 +1,7 @@
+soft,vs,dev PR-AUC soft (ens),dev PR-AUC hard (ens),Δ [95% CI],P(soft better),"Spearman(score, similarity)"
+"CNN (words, raw similarity)",CNN (words),0.416,0.461,"-0.042 [-0.077, -0.006]",0.012,0.296
+"CNN (words, soft T0.05)",CNN (words),0.459,0.461,"-0.001 [-0.027, +0.025]",0.465,0.334
+"CNN (words, soft T0.10)",CNN (words),0.437,0.461,"-0.022 [-0.054, +0.012]",0.105,0.327
+"CNN (words + signature fine-tune, raw similarity)",CNN (words + signature fine-tune),0.406,0.458,"-0.056 [-0.120, -0.003]",0.016,0.287
+"CNN (words + signature fine-tune, soft T0.05)",CNN (words + signature fine-tune),0.437,0.458,"-0.019 [-0.048, +0.009]",0.088,0.315
+"CNN (words + signature fine-tune, soft T0.10)",CNN (words + signature fine-tune),0.408,0.458,"-0.050 [-0.102, -0.004]",0.014,0.298

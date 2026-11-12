@@ -1,0 +1,1290 @@
+idx,target,ocr,similarity,label,split,group,source_family,old_label
+0,bnavya,13 . Navy .,0.6666666666666667,0,dev,24,A,0
+1,bnavya,B. nearys .,0.5714285714285714,0,dev,24,A,1
+2,bnavya,B. Navya,1.0,1,dev,24,A,1
+3,bnavya,13 . Always,0.16666666666666663,0,dev,24,A,0
+4,bnavya,13 . Navya,0.8333333333333334,1,dev,24,A,1
+5,bnavya,13 . Nanya,0.6666666666666667,0,dev,24,A,0
+6,bnavya,B. nearys .,0.5714285714285714,0,dev,24,A,0
+7,bnavya,B. Navya,1.0,1,dev,24,A,1
+8,bnavya,13-nways .,0.33333333333333337,0,dev,24,A,0
+9,bnavya,13- nearys .,0.33333333333333337,0,dev,24,A,0
+10,jabeena,taupeena .,0.625,0,dev,39,A,0
+11,jabeena,tax seen .,0.4285714285714286,0,dev,39,A,0
+12,jabeena,tabbens .,0.5714285714285714,0,dev,39,A,0
+13,jabeena,sabeers .,0.5714285714285714,0,dev,39,A,0
+14,jabeena,sauveener .,0.4444444444444444,0,dev,39,A,0
+15,jabeena,tabbens .,0.5714285714285714,0,dev,39,A,0
+16,jabeena,European,0.125,0,dev,39,A,0
+17,jabeena,taupeena .,0.625,0,dev,39,A,0
+18,jabeena,tabeona .,0.7142857142857143,0,dev,39,A,0
+19,jabeena,taw.see now,0.4444444444444444,0,dev,39,A,0
+20,saniya,sani ya,1.0,1,dev,88,A,1
+21,saniya,sani ye,0.8333333333333334,1,dev,88,A,1
+22,saniya,saniya,1.0,1,dev,88,A,1
+23,saniya,sani ye,0.8333333333333334,1,dev,88,A,1
+24,saniya,santiye .,0.7142857142857143,0,dev,88,A,0
+25,saniya,saniya,1.0,1,dev,88,A,1
+26,saniya,saniyo,0.8333333333333334,1,dev,88,A,1
+27,saniya,saniya,1.0,1,dev,88,A,1
+28,saniya,Sani ye,0.8333333333333334,1,dev,88,A,1
+29,saniya,ani ye,0.6666666666666667,0,dev,88,A,0
+30,gpreethi,G. Pirelli,0.5,0,dev,35,A,0
+31,gpreethi,Le . Preellis,0.5,0,dev,35,A,0
+32,gpreethi,Co. Pueblleux .,0.18181818181818177,0,dev,35,A,0
+33,gpreethi,Ce. Preethi,0.7777777777777778,0,dev,35,A,0
+34,gpreethi,G. Predling .,0.4444444444444444,0,dev,35,A,0
+35,gpreethi,Ce. Puettii,0.4444444444444444,0,dev,35,A,0
+36,gpreethi,G. Russellis .,0.30000000000000004,0,dev,35,A,0
+37,gpreethi,C.O. P.P. P. P. P. P.,0.0,0,dev,35,A,0
+38,gpreethi,G. Pueblo,0.375,0,dev,35,A,0
+39,gpreethi,Ce. Pueblo .,0.125,0,dev,35,A,0
+40,prathyusha,Bobbynsta .,0.30000000000000004,0,dev,71,A,0
+41,prathyusha,Bathynska,0.6,0,dev,71,A,1
+42,prathyusha,Prathesusha,0.8181818181818181,1,dev,71,A,0
+43,prathyusha,Porthanasia,0.4545454545454546,0,dev,71,A,0
+44,prathyusha,Porathisusha .,0.75,0,dev,71,A,1
+45,prathyusha,parathise since,0.4285714285714286,0,dev,71,A,0
+46,prathyusha,Bathususha,0.6,0,dev,71,A,0
+47,prathyusha,Psattisusha .,0.6363636363636364,0,dev,71,A,0
+48,prathyusha,Bodhyush .,0.5,0,dev,71,A,0
+49,prathyusha,parathyquisha .,0.7692307692307692,0,dev,71,A,0
+50,kalyani,karyani,0.8571428571428572,1,test,50,A,1
+51,kalyani,kalyani,1.0,1,test,50,A,1
+52,kalyani,Kalyashi,0.75,0,test,50,A,0
+53,kalyani,kalyani,1.0,1,test,50,A,1
+54,kalyani,kaeyani,0.8571428571428572,1,test,50,A,1
+55,kalyani,kaeyani,0.8571428571428572,1,test,50,A,1
+56,kalyani,karyani,0.8571428571428572,1,test,50,A,1
+57,kalyani,kalyani,1.0,1,test,50,A,1
+58,kalyani,kaleyconi .,0.6666666666666667,0,test,50,A,0
+59,kalyani,Kalyani,1.0,1,test,50,A,1
+60,navya,navya,1.0,1,dev,24,A,1
+61,navya,neavyo,0.6666666666666667,0,dev,24,A,0
+62,navya,navya,1.0,1,dev,24,A,1
+63,navya,navya,1.0,1,dev,24,A,1
+64,navya,nouvys .,0.5,0,dev,24,A,0
+65,navya,naviya,0.8333333333333334,1,dev,24,A,1
+66,navya,navya,1.0,1,dev,24,A,1
+67,navya,nauva,0.6,0,dev,24,A,0
+68,navya,naviya,0.8333333333333334,1,dev,24,A,1
+69,navya,navya,1.0,1,dev,24,A,1
+70,mrchang,under-algent,0.18181818181818177,0,test,61,A,0
+71,mrchang,under-cupers .,0.18181818181818177,0,test,61,A,0
+72,mrchang,under-cups .,0.11111111111111116,0,test,61,A,0
+73,mrchang,and everyone .,0.09090909090909094,0,test,61,A,0
+74,mrchang,under-end,0.125,0,test,61,A,0
+75,mrchang,and cigar .,0.125,0,test,61,A,0
+76,mrchang,under-engens .,0.18181818181818177,0,test,61,A,0
+77,mrchang,and begun .,0.0,0,test,61,A,0
+78,mrchang,and beyond,0.11111111111111116,0,test,61,A,0
+79,mrchang,and-changes .,0.5,0,test,61,A,0
+80,shahana,shahana,1.0,1,dev,89,A,1
+81,shahana,shahana,1.0,1,dev,89,A,1
+82,shahana,shahana,1.0,1,dev,89,A,1
+83,shahana,shahana,1.0,1,dev,89,A,1
+84,shahana,shahama,0.8571428571428572,1,dev,89,A,1
+85,shahana,shahana,1.0,1,dev,89,A,1
+86,shahana,shahana,1.0,1,dev,89,A,1
+87,shahana,shahana,1.0,1,dev,89,A,1
+88,shahana,shahana,1.0,1,dev,89,A,1
+89,shahana,shahana,1.0,1,dev,89,A,1
+90,prabhath,prothoth .,0.625,0,dev,70,A,0
+91,prabhath,prod health .,0.6,0,dev,70,A,0
+92,prabhath,probhatts .,0.6666666666666667,0,dev,70,A,0
+93,prabhath,probinate,0.5555555555555556,0,dev,70,A,0
+94,prabhath,prodonouth .,0.4,0,dev,70,A,0
+95,prabhath,Protmouth .,0.4444444444444444,0,dev,70,A,0
+96,prabhath,prolphants,0.5,0,dev,70,A,0
+97,prabhath,probhatts .,0.6666666666666667,0,dev,70,A,0
+98,prabhath,Prostimate,0.4,0,dev,70,A,0
+99,prabhath,prodzhats .,0.5555555555555556,0,dev,70,A,0
+100,rohith,ronits .,0.6666666666666667,0,dev,82,A,0
+101,rohith,RONTH,0.6666666666666667,0,dev,82,A,1
+102,rohith,Rolith,0.8333333333333334,1,dev,82,A,1
+103,rohith,rohit,0.8333333333333334,1,dev,82,A,1
+104,rohith,ronith .,0.8333333333333334,1,dev,82,A,0
+105,rohith,ronts .,0.5,0,dev,82,A,0
+106,rohith,Rollin,0.33333333333333337,0,dev,82,A,0
+107,rohith,rorists,0.5714285714285714,0,dev,82,A,0
+108,rohith,rorists,0.5714285714285714,0,dev,82,A,0
+109,rohith,RONTH,0.6666666666666667,0,dev,82,A,0
+110,shyam,theaters,0.25,0,test,90,A,0
+111,shyam,shyam .,1.0,1,test,90,A,1
+112,shyam,shogam .,0.6666666666666667,0,test,90,A,0
+113,shyam,shyam .,1.0,1,test,90,A,1
+114,shyam,shyam .,1.0,1,test,90,A,1
+115,shyam,shyam .,1.0,1,test,90,A,1
+116,shyam,shyam .,1.0,1,test,90,A,1
+117,shyam,shyam .,1.0,1,test,90,A,1
+118,shyam,shyam .,1.0,1,test,90,A,1
+119,shyam,shigam .,0.6666666666666667,0,test,90,A,0
+120,ankitha,anketing .,0.5,0,test,6,A,0
+121,ankitha,ankitha,1.0,1,test,6,A,1
+122,ankitha,ANK 9th.,0.7142857142857143,0,test,6,A,1
+123,ankitha,Anixima,0.4285714285714286,0,test,6,A,1
+124,ankitha,ankiths .,0.8571428571428572,1,test,6,A,1
+125,ankitha,ankitha,1.0,1,test,6,A,1
+126,ankitha,ankitha,1.0,1,test,6,A,1
+127,ankitha,ankitha,1.0,1,test,6,A,1
+128,ankitha,ankitha,1.0,1,test,6,A,1
+129,ankitha,ankitha,1.0,1,test,6,A,1
+130,jrajitha,J. Rajitha,1.0,1,dev,45,A,1
+131,jrajitha,J. Rajitha,1.0,1,dev,45,A,1
+132,jrajitha,J. Raiitha,0.875,1,dev,45,A,1
+133,jrajitha,J. Rajitha,1.0,1,dev,45,A,1
+134,jrajitha,J. Rajitha,1.0,1,dev,45,A,1
+135,jrajitha,J. Paviitha,0.6666666666666667,0,dev,45,A,1
+136,jrajitha,J. Rajitha,1.0,1,dev,45,A,0
+137,jrajitha,T. Ruiiths .,0.5,0,dev,45,A,1
+138,jrajitha,J. Ralitha,0.875,1,dev,45,A,1
+139,jrajitha,J. Rajitha,1.0,1,dev,45,A,1
+140,khemanth,ex-Hennanth .,0.6,0,test,55,A,0
+141,khemanth,x-moments .,0.375,0,test,55,A,0
+142,khemanth,to terminate .,0.36363636363636365,0,test,55,A,0
+143,khemanth,K. Hammantt .,0.6666666666666667,0,test,55,A,0
+144,khemanth,""" Weymouth .",0.375,0,test,55,A,0
+145,khemanth,mennonite,0.2222222222222222,0,test,55,A,0
+146,khemanth,c.rtemonth .,0.5555555555555556,0,test,55,A,0
+147,khemanth,c.Hemanth .,0.875,1,test,55,A,1
+148,khemanth,settlements .,0.36363636363636365,0,test,55,A,0
+149,khemanth,a. Hemanth .,0.875,1,test,55,A,0
+150,pvinay,p. Vinay,1.0,1,dev,77,A,1
+151,pvinay,p. vicay .,0.8333333333333334,1,dev,77,A,1
+152,pvinay,P. Viroy,0.6666666666666667,0,dev,77,A,1
+153,pvinay,P. Vinay,1.0,1,dev,77,A,1
+154,pvinay,P. Vinay,1.0,1,dev,77,A,1
+155,pvinay,P. Viasay,0.7142857142857143,0,dev,77,A,0
+156,pvinay,P. Vinay,1.0,1,dev,77,A,1
+157,pvinay,p. Vinay,1.0,1,dev,77,A,1
+158,pvinay,p. Vinay .,1.0,1,dev,77,A,1
+159,pvinay,P. Vinay,1.0,1,dev,77,A,1
+160,jasmine,jasmine,1.0,1,dev,40,A,1
+161,jasmine,jasmine,1.0,1,dev,40,A,1
+162,jasmine,Tasons in,0.375,0,dev,40,A,0
+163,jasmine,jasmine,1.0,1,dev,40,A,1
+164,jasmine,asmaine .,0.7142857142857143,0,dev,40,A,0
+165,jasmine,jasmine,1.0,1,dev,40,A,1
+166,jasmine,fasmine .,0.8571428571428572,1,dev,40,A,1
+167,jasmine,jasmine .,1.0,1,dev,40,A,1
+168,jasmine,jasmine .,1.0,1,dev,40,A,1
+169,jasmine,jasmine,1.0,1,dev,40,A,1
+170,bakhila,8 Ablina,0.4285714285714286,0,dev,15,A,0
+171,bakhila,B. Abbina,0.5714285714285714,0,dev,15,A,0
+172,bakhila,B.Abbica,0.5714285714285714,0,dev,15,A,0
+173,bakhila,B.A.HA,0.5714285714285714,0,dev,15,A,0
+174,bakhila,B.Athira,0.7142857142857143,0,dev,15,A,0
+175,bakhila,B-Akhira,0.8571428571428572,1,dev,15,A,0
+176,bakhila,B Abhias,0.5714285714285714,0,dev,15,A,0
+177,bakhila,B. Atkins,0.4285714285714286,0,dev,15,A,0
+178,bakhila,B.Ashire .,0.5714285714285714,0,dev,15,A,0
+179,bakhila,B.Athieu .,0.5714285714285714,0,dev,15,A,0
+180,gakhila,Gr. Akhila,0.875,1,dev,15,A,1
+181,gakhila,S.Akhias,0.5714285714285714,0,dev,15,A,0
+182,gakhila,si. Akhita,0.625,0,dev,15,A,0
+183,gakhila,si-Akhila .,0.75,0,dev,15,A,0
+184,gakhila,G.Akhila,1.0,1,dev,15,A,1
+185,gakhila,5 . Akihita,0.5714285714285714,0,dev,15,A,0
+186,gakhila,G.Akhila,1.0,1,dev,15,A,1
+187,gakhila,G. Archila,0.75,0,dev,15,A,0
+188,gakhila,3 .akia,0.5714285714285714,0,dev,15,A,0
+189,gakhila,G. Arenica,0.5,0,dev,15,A,0
+190,gajay,G. ATAN,0.6,0,dev,31,A,0
+191,gajay,G. A.A.A.,0.6,0,dev,31,A,0
+192,gajay,G.Ajay,1.0,1,dev,31,A,1
+193,gajay,G.A.Told .,0.33333333333333337,0,dev,31,A,0
+194,gajay,4. Ajay,0.8,1,dev,31,A,1
+195,gajay,G.Ajay,1.0,1,dev,31,A,1
+196,gajay,G.A. JAN,0.8,1,dev,31,A,1
+197,gajay,G. ATAY,0.8,1,dev,31,A,1
+198,gajay,G.A.TAY,0.8,1,dev,31,A,1
+199,gajay,G.Ajay,1.0,1,dev,31,A,1
+200,tabhilash,tabbiash .,0.7777777777777778,0,dev,102,A,0
+201,tabhilash,Tabbhishe,0.5555555555555556,0,dev,102,A,0
+202,tabhilash,tabbhisah .,0.6666666666666667,0,dev,102,A,0
+203,tabhilash,tabbhishe,0.5555555555555556,0,dev,102,A,0
+204,tabhilash,t-abbirah .,0.6666666666666667,0,dev,102,A,0
+205,tabhilash,t. Abhisash .,0.8888888888888888,1,dev,102,A,1
+206,tabhilash,rabbitish .,0.5555555555555556,0,dev,102,A,0
+207,tabhilash,tabbiash .,0.7777777777777778,0,dev,102,A,0
+208,tabhilash,t-Additional,0.2727272727272727,0,dev,102,A,0
+209,tabhilash,T-Abhisash .,0.8888888888888888,1,dev,102,A,1
+210,bharika,B-Havoba,0.5714285714285714,0,test,18,A,0
+211,bharika,B. Haraka,0.8571428571428572,1,test,18,A,0
+212,bharika,B. Hauptka,0.625,0,test,18,A,0
+213,bharika,Bittardica,0.5,0,test,18,A,0
+214,bharika,B. Haraka,0.8571428571428572,1,test,18,A,1
+215,bharika,B. Harika,1.0,1,test,18,A,1
+216,bharika,B.MARAKA,0.7142857142857143,0,test,18,A,0
+217,bharika,Bittarska,0.5555555555555556,0,test,18,A,0
+218,bharika,B.Haroka,0.8571428571428572,1,test,18,A,1
+219,bharika,B. Haruka,0.8571428571428572,1,test,18,A,1
+220,nishanth,revision with,0.41666666666666663,0,dev,65,A,0
+221,nishanth,mistlements .,0.36363636363636365,0,dev,65,A,0
+222,nishanth,a six-month .,0.4444444444444444,0,dev,65,A,0
+223,nishanth,mistresses .,0.19999999999999996,0,dev,65,A,0
+224,nishanth,arishness .,0.33333333333333337,0,dev,65,A,0
+225,nishanth,millionity .,0.30000000000000004,0,dev,65,A,0
+226,nishanth,a nickname .,0.2222222222222222,0,dev,65,A,0
+227,nishanth,mishments .,0.5555555555555556,0,dev,65,A,0
+228,nishanth,in its health .,0.6363636363636364,0,dev,65,A,0
+229,nishanth,noshouses .,0.33333333333333337,0,dev,65,A,0
+230,skarshiya,sic- Aschiya,0.6,0,dev,91,A,0
+231,skarshiya,ske . Arshiya,0.9,1,dev,91,A,1
+232,skarshiya,sk. Anshiya,0.8888888888888888,1,dev,91,A,1
+233,skarshiya,sk. Archeys .,0.6666666666666667,0,dev,91,A,0
+234,skarshiya,sk. Akshaya,0.7777777777777778,0,dev,91,A,0
+235,skarshiya,SK. Arshiya,1.0,1,dev,91,A,1
+236,skarshiya,SK Archive .,0.6666666666666667,0,dev,91,A,0
+237,skarshiya,after . Anashiya,0.46153846153846156,0,dev,91,A,1
+238,skarshiya,SK. Arehiya,0.8888888888888888,1,dev,91,A,1
+239,skarshiya,sk. Archive .,0.6666666666666667,0,dev,91,A,0
+240,sharanya,shavaneya,0.7777777777777778,0,dev,89,A,0
+241,sharanya,charanya .,0.875,1,dev,89,A,1
+242,sharanya,shavangal,0.6666666666666667,0,dev,89,A,0
+243,sharanya,shavanya,0.875,1,dev,89,A,1
+244,sharanya,charanya .,0.875,1,dev,89,A,0
+245,sharanya,"shavaneya ,",0.7777777777777778,0,dev,89,A,1
+246,sharanya,sharanya .,1.0,1,dev,89,A,1
+247,sharanya,shavaniya,0.7777777777777778,0,dev,89,A,0
+248,sharanya,sharranya .,0.8888888888888888,1,dev,89,A,1
+249,sharanya,sharanya,1.0,1,dev,89,A,1
+250,nagavarsha,nagawaska .,0.7,0,dev,64,A,1
+251,nagavarsha,nagarvarsha .,0.9090909090909091,1,dev,64,A,1
+252,nagavarsha,nagawarsha .,0.9,1,dev,64,A,1
+253,nagavarsha,nagawarsha .,0.9,1,dev,64,A,1
+254,nagavarsha,vagawarsha,0.8,1,dev,64,A,1
+255,nagavarsha,nagawarsha .,0.9,1,dev,64,A,1
+256,nagavarsha,Nagavarsha,1.0,1,dev,64,A,1
+257,nagavarsha,Nagawars has,0.8181818181818181,1,dev,64,A,0
+258,nagavarsha,nagawarsha,0.9,1,dev,64,A,1
+259,nagavarsha,nagawarsha .,0.9,1,dev,64,A,1
+260,aakhil,A.AKHIL,1.0,1,dev,1,A,1
+261,aakhil,A. Akhi I,0.8333333333333334,1,dev,1,A,1
+262,aakhil,A.AKH.I,0.8333333333333334,1,dev,1,A,1
+263,aakhil,A. Akhil .,1.0,1,dev,1,A,1
+264,aakhil,A.Akhil,1.0,1,dev,1,A,1
+265,aakhil,A. Akhil,1.0,1,dev,1,A,1
+266,aakhil,A.AKHIS,0.8333333333333334,1,dev,1,A,1
+267,aakhil,A.AKH.I,0.8333333333333334,1,dev,1,A,1
+268,aakhil,A.Akhil,1.0,1,dev,1,A,1
+269,aakhil,A-Akhij,0.8333333333333334,1,dev,1,A,1
+270,epranay,E-pranny,0.8571428571428572,1,test,28,A,1
+271,epranay,e-pranny .,0.8571428571428572,1,test,28,A,1
+272,epranay,E.pranny,0.8571428571428572,1,test,28,A,1
+273,epranay,E pranay .,1.0,1,test,28,A,1
+274,epranay,E. Pranay,1.0,1,test,28,A,1
+275,epranay,E-pranny,0.8571428571428572,1,test,28,A,1
+276,epranay,E.pranny,0.8571428571428572,1,test,28,A,1
+277,epranay,e.pranay .,1.0,1,test,28,A,1
+278,epranay,E. Pranay,1.0,1,test,28,A,1
+279,epranay,E. Pranay,1.0,1,test,28,A,1
+280,pvinay,ep-vinal,0.7142857142857143,0,dev,77,A,0
+281,pvinay,giving,0.33333333333333337,0,dev,77,A,0
+282,pvinay,p.vinoy .,0.8333333333333334,1,dev,77,A,1
+283,pvinay,8 . Vinoy,0.6666666666666667,0,dev,77,A,0
+284,pvinay,gp. Vinoy,0.7142857142857143,0,dev,77,A,0
+285,pvinay,P. visual,0.5714285714285714,0,dev,77,A,0
+286,pvinay,p. Vinay .,1.0,1,dev,77,A,1
+287,pvinay,to. Vinoy,0.5714285714285714,0,dev,77,A,0
+288,pvinay,ex viewing .,0.2222222222222222,0,dev,77,A,0
+289,pvinay,quivoy .,0.33333333333333337,0,dev,77,A,0
+290,skumar,0 0,0.0,0,dev,93,A,0
+291,skumar,sko sap,0.5,0,dev,93,A,0
+292,skumar,S. Khirazair .,0.4,0,dev,93,A,0
+293,skumar,s-Kumps,0.6666666666666667,0,dev,93,A,0
+294,skumar,S- Kumae,0.8333333333333334,1,dev,93,A,1
+295,skumar,s. Kumara .,0.8571428571428572,1,dev,93,A,1
+296,skumar,s. Kumara,0.8571428571428572,1,dev,93,A,1
+297,skumar,s. Ko sure,0.4285714285714286,0,dev,93,A,0
+298,skumar,S. Komrose .,0.375,0,dev,93,A,0
+299,skumar,8 - Komsa,0.33333333333333337,0,dev,93,A,0
+300,soavya,skaya .,0.6666666666666667,0,dev,96,A,0
+301,soavya,souvya,0.8333333333333334,1,dev,96,A,1
+302,soavya,soavya,1.0,1,dev,96,A,1
+303,soavya,somaya,0.6666666666666667,0,dev,96,A,0
+304,soavya,essave .,0.33333333333333337,0,dev,96,A,0
+305,soavya,c saya,0.5,0,dev,96,A,0
+306,soavya,0 0,0.0,0,dev,96,A,0
+307,soavya,sravya,0.8333333333333334,1,dev,96,A,1
+308,soavya,csauga .,0.33333333333333337,0,dev,96,A,0
+309,soavya,s saya,0.6666666666666667,0,dev,96,A,0
+310,gmadhus,G. Madnick,0.5,0,dev,33,A,0
+311,gmadhus,A. Madley,0.4285714285714286,0,dev,33,A,0
+312,gmadhus,G. Madhuij,0.75,0,dev,33,A,0
+313,gmadhus,comodrief,0.2222222222222222,0,dev,33,A,0
+314,gmadhus,G. Madhesey,0.6666666666666667,0,dev,33,A,0
+315,gmadhus,G. Madhurst .,0.7777777777777778,0,dev,33,A,0
+316,gmadhus,G.modhef,0.5714285714285714,0,dev,33,A,0
+317,gmadhus,G Madhurst,0.7777777777777778,0,dev,33,A,0
+318,gmadhus,a madling .,0.375,0,dev,33,A,0
+319,gmadhus,G. Madhurst,0.7777777777777778,0,dev,33,A,0
+320,sksameena,sk-sameena .,1.0,1,test,92,A,1
+321,sksameena,ex- Sanneona .,0.5,0,test,92,A,0
+322,sksameena,SK-samoeona .,0.8,1,test,92,A,1
+323,sksameena,someone arena .,0.41666666666666663,0,test,92,A,0
+324,sksameena,eximeena .,0.5555555555555556,0,test,92,A,0
+325,sksameena,ex-sameena .,0.7777777777777778,0,test,92,A,0
+326,sksameena,ex-samoeona .,0.6,0,test,92,A,0
+327,sksameena,sk. sameena .,1.0,1,test,92,A,1
+328,sksameena,SK. Sarneena,0.8,1,test,92,A,1
+329,sksameena,ex- Sanneena .,0.6,0,test,92,A,0
+330,preethika,P. Reedhika,0.8888888888888888,1,dev,74,A,1
+331,preethika,P. Reedhika,0.8888888888888888,1,dev,74,A,1
+332,preethika,P. Raethika,0.8888888888888888,1,dev,74,A,1
+333,preethika,P. Reedhima,0.7777777777777778,0,dev,74,A,0
+334,preethika,P. Reedhika .,0.8888888888888888,1,dev,74,A,1
+335,preethika,P. Reethima,0.8888888888888888,1,dev,74,A,1
+336,preethika,P. Reedhikes,0.7,0,dev,74,A,0
+337,preethika,P. Reedhima,0.7777777777777778,0,dev,74,A,0
+338,preethika,P. Reethika,1.0,1,dev,74,A,0
+339,preethika,P. Reedbiria,0.6,0,dev,74,A,0
+340,chvasunkumar,0,0.0,0,dev,25,A,0
+341,chvasunkumar,cater,0.25,0,dev,25,A,0
+342,chvasunkumar,coxer,0.16666666666666663,0,dev,25,A,0
+343,chvasunkumar,chack hook,0.33333333333333337,0,dev,25,A,0
+344,chvasunkumar,curious .,0.16666666666666663,0,dev,25,A,0
+345,chvasunkumar,c.,0.08333333333333337,0,dev,25,A,0
+346,chvasunkumar,c.,0.08333333333333337,0,dev,25,A,0
+347,chvasunkumar,ch 35,0.16666666666666663,0,dev,25,A,0
+348,chvasunkumar,coxeter .,0.16666666666666663,0,dev,25,A,0
+349,chvasunkumar,5 References,0.08333333333333337,0,dev,25,A,0
+350,bdivya,3 . Diaya,0.6666666666666667,0,dev,16,A,0
+351,bdivya,s. Divya,0.8333333333333334,1,dev,16,A,1
+352,bdivya,B. Diaya,0.8333333333333334,1,dev,16,A,1
+353,bdivya,B. Divya,1.0,1,dev,16,A,1
+354,bdivya,B. Diaya,0.8333333333333334,1,dev,16,A,1
+355,bdivya,B. Diaya,0.8333333333333334,1,dev,16,A,1
+356,bdivya,B. Diaya,0.8333333333333334,1,dev,16,A,1
+357,bdivya,B. Diaya,0.8333333333333334,1,dev,16,A,1
+358,bdivya,B. Divya,1.0,1,dev,16,A,1
+359,bdivya,3 . Divya,0.8333333333333334,1,dev,16,A,1
+360,nsoijay,nl. Serifay,0.5555555555555556,0,dev,68,A,0
+361,nsoijay,no. sailing .,0.33333333333333337,0,dev,68,A,0
+362,nsoijay,N. Soujay,0.8571428571428572,1,dev,68,A,1
+363,nsoijay,no. sixway .,0.5,0,dev,68,A,0
+364,nsoijay,N. Smigry,0.5714285714285714,0,dev,68,A,0
+365,nsoijay,N. Spriggy .,0.5,0,dev,68,A,0
+366,nsoijay,no. soigny .,0.625,0,dev,68,A,0
+367,nsoijay,M. Soujay,0.7142857142857143,0,dev,68,A,0
+368,nsoijay,m. ssiggy .,0.4285714285714286,0,dev,68,A,0
+369,nsoijay,V. sailing .,0.25,0,dev,68,A,0
+370,ksirivalli,Krisisivalli,0.75,0,dev,60,A,1
+371,ksirivalli,c. sixivalli .,0.8,1,dev,60,A,1
+372,ksirivalli,K-sixwalli .,0.7,0,dev,60,A,0
+373,ksirivalli,krisivalli,0.8,1,dev,60,A,1
+374,ksirivalli,Kriskilli .,0.5,0,dev,60,A,0
+375,ksirivalli,K-sixwalli .,0.7,0,dev,60,A,0
+376,ksirivalli,Krisivalli,0.8,1,dev,60,A,1
+377,ksirivalli,K strivalli,0.9,1,dev,60,A,1
+378,ksirivalli,x sixivalli .,0.8,1,dev,60,A,1
+379,ksirivalli,x six-valli .,0.7,0,dev,60,A,0
+380,ramya,Ramaya,0.8333333333333334,1,dev,78,A,1
+381,ramya,Ramiya,0.8333333333333334,1,dev,78,A,1
+382,ramya,Rannya,0.6666666666666667,0,dev,78,A,0
+383,ramya,fannya,0.5,0,dev,78,A,0
+384,ramya,flamaya,0.5714285714285714,0,dev,78,A,0
+385,ramya,Ranaya,0.6666666666666667,0,dev,78,A,0
+386,ramya,Ramya,1.0,1,dev,78,A,1
+387,ramya,Rannya,0.6666666666666667,0,dev,78,A,0
+388,ramya,Rannya,0.6666666666666667,0,dev,78,A,0
+389,ramya,Ramya,1.0,1,dev,78,A,1
+390,ruchitha,suchitha,0.875,1,dev,84,A,1
+391,ruchitha,suchiting,0.5555555555555556,0,dev,84,A,0
+392,ruchitha,ruckling .,0.375,0,dev,84,A,0
+393,ruchitha,suchitha,0.875,1,dev,84,A,1
+394,ruchitha,suchitha .,0.875,1,dev,84,A,1
+395,ruchitha,suchitha,0.875,1,dev,84,A,0
+396,ruchitha,ruchitha,1.0,1,dev,84,A,1
+397,ruchitha,suchitha,0.875,1,dev,84,A,1
+398,ruchitha,suchiths,0.75,0,dev,84,A,0
+399,ruchitha,suchitha,0.875,1,dev,84,A,1
+400,affan,African,0.5714285714285714,0,dev,2,C,0
+401,affan,vittain .,0.2857142857142857,0,dev,2,C,0
+402,affan,atthen .,0.33333333333333337,0,dev,2,C,0
+403,affan,I Assen .,0.33333333333333337,0,dev,2,C,0
+404,affan,African,0.5714285714285714,0,dev,2,C,0
+405,affan,attrition .,0.2222222222222222,0,dev,2,C,0
+406,affan,attrition .,0.2222222222222222,0,dev,2,C,0
+407,affan,attrition .,0.2222222222222222,0,dev,2,C,0
+408,affan,attitude,0.125,0,dev,2,C,0
+409,affan,attan,0.6,0,dev,2,C,0
+410,snigdhapeddi,Grigdlepeddi,0.6666666666666667,0,dev,95,C,0
+411,snigdhapeddi,Gigelhetdi,0.41666666666666663,0,dev,95,C,0
+412,snigdhapeddi,SmigellaPeddi,0.6923076923076923,0,dev,95,C,0
+413,snigdhapeddi,Sigelapeddi,0.75,0,dev,95,C,0
+414,snigdhapeddi,Snyder Post,0.33333333333333337,0,dev,95,C,0
+415,snigdhapeddi,Gugelinski,0.16666666666666663,0,dev,95,C,0
+416,snigdhapeddi,Brightlepods .,0.33333333333333337,0,dev,95,C,0
+417,snigdhapeddi,Quigsheddi,0.5833333333333333,0,dev,95,C,0
+418,snigdhapeddi,bright-,0.25,0,dev,95,C,0
+419,snigdhapeddi,snigshingless,0.3846153846153846,0,dev,95,C,0
+420,bkoushik,B. Hagelite .,0.2222222222222222,0,dev,22,B,0
+421,bkoushik,B. B. B. B. B. B. B.O.,0.125,0,dev,22,B,0
+422,bkoushik,Bitsuckle .,0.2222222222222222,0,dev,22,B,0
+423,bkoushik,B. Kouchette,0.5,0,dev,22,B,0
+424,bkoushik,3-Boulder .,0.375,0,dev,22,B,0
+425,bkoushik,3 . House .,0.375,0,dev,22,B,0
+426,bkoushik,B. Kouffle,0.5,0,dev,22,B,0
+427,bkoushik,"3 . Kou""Hub .",0.5,0,dev,22,B,0
+428,bkoushik,13 . BOUND,0.375,0,dev,22,B,0
+429,bkoushik,75. Kaundita,0.25,0,dev,22,B,0
+430,supraja,supnaja .,0.8571428571428572,1,dev,100,B,1
+431,supraja,supproach,0.5555555555555556,0,dev,100,B,0
+432,supraja,supnajac,0.75,0,dev,100,B,0
+433,supraja,surppings .,0.33333333333333337,0,dev,100,B,0
+434,supraja,supoja,0.7142857142857143,0,dev,100,B,0
+435,supraja,supprajor,0.6666666666666667,0,dev,100,B,0
+436,supraja,supways,0.5714285714285714,0,dev,100,B,0
+437,supraja,suppregate,0.5,0,dev,100,B,0
+438,supraja,suppreys .,0.5,0,dev,100,B,0
+439,supraja,supraja,1.0,1,dev,100,B,1
+440,gowthami,Gowthami .,1.0,1,dev,34,B,1
+441,gowthami,ceawthami,0.6666666666666667,0,dev,34,B,0
+442,gowthami,Gawthorni .,0.5555555555555556,0,dev,34,B,0
+443,gowthami,Go withame .,0.7777777777777778,0,dev,34,B,0
+444,gowthami,ceonthomi,0.5555555555555556,0,dev,34,B,0
+445,gowthami,Gowthomi,0.875,1,dev,34,B,1
+446,gowthami,carathon .,0.125,0,dev,34,B,0
+447,gowthami,I Giovanni,0.2222222222222222,0,dev,34,B,0
+448,gowthami,Gounnami,0.625,0,dev,34,B,0
+449,gowthami,( Geonations .,0.30000000000000004,0,dev,34,B,0
+450,anushy,Arundy .,0.5,0,dev,8,B,0
+451,anushy,Anusht .,0.8333333333333334,1,dev,8,B,1
+452,anushy,thrust of,0.25,0,dev,8,B,0
+453,anushy,Arnitz,0.16666666666666663,0,dev,8,B,0
+454,anushy,Arnett,0.16666666666666663,0,dev,8,B,0
+455,anushy,Arundrey,0.375,0,dev,8,B,0
+456,anushy,Anushay .,0.8571428571428572,1,dev,8,B,1
+457,anushy,Artist .,0.16666666666666663,0,dev,8,B,0
+458,anushy,Arundy .,0.5,0,dev,8,B,0
+459,anushy,Arundt .,0.33333333333333337,0,dev,8,B,0
+460,jsruthi,J.sruth .,0.8571428571428572,1,dev,47,B,1
+461,jsruthi,J. South .,0.7142857142857143,0,dev,47,B,0
+462,jsruthi,J. Smith .,0.5714285714285714,0,dev,47,B,0
+463,jsruthi,J. South,0.7142857142857143,0,dev,47,B,0
+464,jsruthi,T. South .,0.5714285714285714,0,dev,47,B,0
+465,jsruthi,J. Smith .,0.5714285714285714,0,dev,47,B,0
+466,jsruthi,J. South .,0.7142857142857143,0,dev,47,B,0
+467,jsruthi,J. Sruck .,0.5714285714285714,0,dev,47,B,0
+468,jsruthi,J. south .,0.7142857142857143,0,dev,47,B,0
+469,jsruthi,J. South,0.7142857142857143,0,dev,47,B,0
+470,kakhils,kosking,0.2857142857142857,0,dev,49,C,0
+471,kakhils,K. Akney .,0.4285714285714286,0,dev,49,C,0
+472,kakhils,K. Akburg,0.4285714285714286,0,dev,49,C,0
+473,kakhils,K. Shewy .,0.2857142857142857,0,dev,49,C,0
+474,kakhils,K. Sheets .,0.2857142857142857,0,dev,49,C,0
+475,kakhils,K.ARKSITE .,0.5,0,dev,49,C,0
+476,kakhils,K.AKUTS.,0.5714285714285714,0,dev,49,C,0
+477,kakhils,kakursky,0.375,0,dev,49,C,0
+478,kakhils,Mr. Albany .,0.125,0,dev,49,C,0
+479,kakhils,K. Akusky,0.4285714285714286,0,dev,49,C,1
+480,ymounika,Y-KENNIKA,0.625,0,test,110,C,0
+481,ymounika,Y.Mounika,1.0,1,test,110,C,1
+482,ymounika,N.Mounika,0.875,1,test,110,C,1
+483,ymounika,1 x-monized .,0.375,0,test,110,C,0
+484,ymounika,4 .ndounites .,0.4444444444444444,0,test,110,C,0
+485,ymounika,4 . Monitsa,0.5,0,test,110,C,0
+486,ymounika,4-mauries .,0.375,0,test,110,C,0
+487,ymounika,1 4-Mourika,0.75,0,test,110,C,0
+488,ymounika,Y-Mounika,1.0,1,test,110,C,0
+489,ymounika,4 .Mousika,0.75,0,test,110,C,0
+490,nikhitha,4 Wichita .,0.625,0,dev,57,B,0
+491,nikhitha,Whiteton .,0.125,0,dev,57,B,0
+492,nikhitha,Deckiths,0.375,0,dev,57,B,0
+493,nikhitha,with the,0.5,0,dev,57,B,0
+494,nikhitha,7 Wichita .,0.625,0,dev,57,B,0
+495,nikhitha,Deviatha,0.375,0,dev,57,B,0
+496,nikhitha,Whitebaths .,0.30000000000000004,0,dev,57,B,0
+497,nikhitha,Pirkiths,0.5,0,dev,57,B,0
+498,nikhitha,4 Distribution .,0.25,0,dev,57,B,0
+499,nikhitha,""" Wickitho",0.5,0,dev,57,B,0
+500,amulya,Arrutya,0.5714285714285714,0,dev,5,B,0
+501,amulya,Amulya,1.0,1,dev,5,B,0
+502,amulya,Arrushya,0.5,0,dev,5,B,0
+503,amulya,annulya,0.7142857142857143,0,dev,5,B,0
+504,amulya,A. Assulya,0.625,0,dev,5,B,0
+505,amulya,Arsulya,0.7142857142857143,0,dev,5,B,0
+506,amulya,annulya,0.7142857142857143,0,dev,5,B,0
+507,amulya,annulya,0.7142857142857143,0,dev,5,B,0
+508,amulya,amulya,1.0,1,dev,5,B,1
+509,amulya,Arsulya,0.7142857142857143,0,dev,5,B,0
+510,pavithra,Pavittura _,0.7777777777777778,0,dev,69,C,0
+511,pavithra,Parvithosa is,0.5833333333333333,0,dev,69,C,0
+512,pavithra,Revitma II,0.33333333333333337,0,dev,69,C,0
+513,pavithra,Provithraix .,0.6363636363636364,0,dev,69,C,0
+514,pavithra,Providina .,0.4444444444444444,0,dev,69,C,0
+515,pavithra,Pavittura _,0.7777777777777778,0,dev,69,C,0
+516,pavithra,Pavithrazi,0.8,1,dev,69,C,1
+517,pavithra,Panithura is,0.6363636363636364,0,dev,69,C,0
+518,pavithra,Pavithra II,0.8,1,dev,69,C,1
+519,pavithra,Pavithra ii,0.8,1,dev,69,C,0
+520,ksanjana,Mr. Sanigama,0.5,0,dev,59,B,0
+521,ksanjana,K. Sanjama,0.875,1,dev,59,B,1
+522,ksanjana,K. Sanjama,0.875,1,dev,59,B,1
+523,ksanjana,K. Sanjana,1.0,1,dev,59,B,1
+524,ksanjana,K. Sanjana,1.0,1,dev,59,B,1
+525,ksanjana,K. Sanigana,0.7777777777777778,0,dev,59,B,0
+526,ksanjana,K. Sanjama,0.875,1,dev,59,B,1
+527,ksanjana,K. Sanjana,1.0,1,dev,59,B,1
+528,ksanjana,K. Sanjana,1.0,1,dev,59,B,1
+529,ksanjana,K. Sanjana,1.0,1,dev,59,B,1
+530,apeksha,apexine,0.4285714285714286,0,test,9,B,0
+531,apeksha,aperesne .,0.5,0,test,9,B,0
+532,apeksha,appressing,0.4,0,test,9,B,0
+533,apeksha,apokane .,0.4285714285714286,0,test,9,B,0
+534,apeksha,aperesons .,0.4444444444444444,0,test,9,B,0
+535,apeksha,appokane .,0.375,0,test,9,B,0
+536,apeksha,apereins .,0.375,0,test,9,B,0
+537,apeksha,apokane .,0.4285714285714286,0,test,9,B,0
+538,apeksha,apexins,0.4285714285714286,0,test,9,B,0
+539,apeksha,appearing,0.33333333333333337,0,test,9,B,0
+540,knikhitha,to-wichithof .,0.4545454545454546,0,dev,57,B,0
+541,knikhitha,b. resulting,0.09999999999999998,0,dev,57,B,0
+542,knikhitha,c. Wickhitha .,0.7,0,dev,57,B,0
+543,knikhitha,to write with a f.,0.3846153846153846,0,dev,57,B,0
+544,knikhitha,-wi centray .,0.2222222222222222,0,dev,57,B,0
+545,knikhitha,ic-visionist least,0.25,0,dev,57,B,0
+546,knikhitha,c. nishi-thaj .,0.7,0,dev,57,B,0
+547,knikhitha,# everything .,0.09999999999999998,0,dev,57,C,0
+548,knikhitha,K-Winchester .,0.36363636363636365,0,dev,57,B,0
+549,knikhitha,to-nipurthof .,0.36363636363636365,0,dev,57,B,0
+550,knikhitha,convoluntary .,0.16666666666666663,0,dev,57,B,0
+551,jokhi,Toxic,0.19999999999999996,0,dev,44,B,0
+552,jokhi,Toxi,0.4,0,dev,44,B,0
+553,jokhi,Torni,0.4,0,dev,44,B,0
+554,jokhi,Joui,0.6,0,dev,44,B,0
+555,jokhi,toms .,0.19999999999999996,0,dev,44,B,0
+556,jokhi,josui,0.6,0,dev,44,C,0
+557,jokhi,Toms,0.19999999999999996,0,dev,44,B,0
+558,jokhi,crows .,0.0,0,dev,44,B,0
+559,jokhi,Torni,0.4,0,dev,44,B,0
+560,jokhi,Toeiui,0.33333333333333337,0,dev,44,B,0
+561,jokhi,Toria,0.19999999999999996,0,dev,44,B,0
+562,kavya,kavage .,0.5,0,dev,24,B,1
+563,kavya,Kavya,1.0,1,dev,24,B,1
+564,kavya,kavya,1.0,1,dev,24,B,1
+565,kavya,kavy .,0.8,1,dev,24,B,1
+566,kavya,kavya,1.0,1,dev,24,B,1
+567,kavya,kavya .,1.0,1,dev,24,C,1
+568,kavya,kavya,1.0,1,dev,24,B,1
+569,kavya,kavya,1.0,1,dev,24,B,1
+570,kavya,kavye,0.8,1,dev,24,B,1
+571,kavya,kavya,1.0,1,dev,24,B,1
+572,kavya,kavy .,0.8,1,dev,24,B,1
+573,gayathri,enoughable .,0.09999999999999998,0,test,32,C,0
+574,gayathri,Gonyadhaus,0.4,0,test,32,B,0
+575,gayathri,expanyagement .,0.23076923076923073,0,test,32,B,0
+576,gayathri,Gayaddress .,0.5,0,test,32,B,0
+577,gayathri,crouwashail .,0.2727272727272727,0,test,32,B,0
+578,gayathri,examyantheshire .,0.4,0,test,32,B,0
+579,gayathri,Granyaddress .,0.41666666666666663,0,test,32,B,0
+580,gayathri,exemptheid .,0.30000000000000004,0,test,32,B,0
+581,gayathri,surgical,0.0,0,test,32,B,0
+582,gayathri,6 Organizations .,0.3076923076923077,0,test,32,B,0
+583,gayathri,Gaworthois,0.5,0,test,32,B,0
+584,alys,ARMS .,0.5,0,test,4,B,0
+585,alys,any .,0.5,0,test,4,B,0
+586,alys,aloys .,0.8,1,test,4,B,1
+587,alys,alys,1.0,1,test,4,B,1
+588,alys,Aey S,0.75,0,test,4,B,0
+589,alys,about S,0.33333333333333337,0,test,4,B,0
+590,alys,July .,0.25,0,test,4,B,0
+591,alys,ally s,0.8,1,test,4,B,0
+592,alys,after,0.19999999999999996,0,test,4,B,0
+593,alys,deep . Sep.,0.1428571428571429,0,test,4,B,0
+594,alys,always .,0.6666666666666667,0,test,4,C,0
+595,ayushi,' Ayushi,1.0,1,dev,14,B,0
+596,ayushi,Augusti .,0.5714285714285714,0,dev,14,B,0
+597,ayushi,styers .,0.0,0,dev,14,B,0
+598,ayushi,ayment .,0.33333333333333337,0,dev,14,B,0
+599,ayushi,""" Anguini",0.4285714285714286,0,dev,14,B,0
+600,ayushi,Ayushi .,1.0,1,dev,14,B,1
+601,ayushi,ayumi,0.6666666666666667,0,dev,14,B,0
+602,ayushi,August Avenue .,0.25,0,dev,14,B,0
+603,ayushi,Ayushi .,1.0,1,dev,14,B,1
+604,ayushi,Anyumi .,0.5,0,dev,14,B,0
+605,ayushi,ayushi,1.0,1,dev,14,B,1
+606,jsaiaashish,"T.R. , America",0.18181818181818177,0,test,46,B,0
+607,jsaiaashish,I. Sai Hashish,0.8181818181818181,1,test,46,B,0
+608,jsaiaashish,J. I. Bai Adelish,0.5833333333333333,0,test,46,B,0
+609,jsaiaashish,T. Sai Aashish,0.9090909090909091,1,test,46,B,1
+610,jsaiaashish,5. Said Abushish .,0.6666666666666667,0,test,46,B,0
+611,jsaiaashish,J. Bai Aakhish,0.8181818181818181,1,test,46,B,1
+612,jsaiaashish,J. Sail Raleigh .,0.5833333333333333,0,test,46,B,0
+613,jsaiaashish,I.Sci-Aashish .,0.8181818181818181,1,test,46,B,1
+614,jsaiaashish,J. Sai Aashish,1.0,1,test,46,B,1
+615,jsaiaashish,I ampacking,0.2727272727272727,0,test,46,B,0
+616,jsaiaashish,I-Sci-Austin .,0.4545454545454546,0,test,46,B,0
+617,jyothi,syoshi,0.6666666666666667,0,dev,48,B,0
+618,jyothi,Jyoti,0.8333333333333334,1,dev,48,B,1
+619,jyothi,tyothi .,0.8333333333333334,1,dev,48,B,1
+620,jyothi,syouth .,0.5,0,dev,48,B,0
+621,jyothi,Tyotti,0.6666666666666667,0,dev,48,B,0
+622,jyothi,Tyolts,0.33333333333333337,0,dev,48,B,0
+623,jyothi,Tyotini,0.5714285714285714,0,dev,48,B,0
+624,jyothi,Tyotni,0.6666666666666667,0,dev,48,B,0
+625,jyothi,Jyotti,0.8333333333333334,1,dev,48,B,1
+626,jyothi,sixve .,0.0,0,dev,48,B,0
+627,jyothi,Trident,0.0,0,dev,48,B,0
+628,jyothi,Spotier .,0.2857142857142857,0,dev,48,B,0
+629,varthini,""" I'mphrase .",0.0,0,dev,106,B,0
+630,varthini,V destroy,0.125,0,dev,106,B,0
+631,varthini,Vaughnam,0.375,0,dev,106,B,0
+632,varthini,vestment .,0.375,0,dev,106,B,0
+633,varthini,variment .,0.5,0,dev,106,B,0
+634,varthini,irritant .,0.25,0,dev,106,B,0
+635,varthini,varibreux,0.33333333333333337,0,dev,106,B,0
+636,varthini,varshram,0.5,0,dev,106,B,0
+637,varthini,varthrows .,0.5555555555555556,0,dev,106,B,0
+638,varthini,# statements .,0.19999999999999996,0,dev,106,B,0
+639,varthini,varitwoods .,0.4,0,dev,106,B,0
+640,yolita,yesboro .,0.1428571428571429,0,test,111,B,0
+641,yolita,US list,0.33333333333333337,0,test,111,B,0
+642,yolita,your-workers .,0.18181818181818177,0,test,111,B,0
+643,yolita,4 Delita,0.6666666666666667,0,test,111,B,0
+644,yolita,Yorkville .,0.33333333333333337,0,test,111,B,0
+645,yolita,torenta,0.4285714285714286,0,test,111,B,0
+646,yolita,yoelista,0.75,0,test,111,B,0
+647,yolita,yescienta,0.4444444444444444,0,test,111,B,0
+648,yolita,varvitz,0.2857142857142857,0,test,111,B,0
+649,yolita,lacerita,0.375,0,test,111,B,0
+650,yolita,yornoe .,0.33333333333333337,0,test,111,B,0
+651,nohi,Nahe,0.5,0,test,66,B,0
+652,nohi,Owhi .,0.5,0,test,66,B,0
+653,nohi,A semi-,0.19999999999999996,0,test,66,B,0
+654,nohi,doho,0.5,0,test,66,B,0
+655,nohi,Ilahi .,0.4,0,test,66,B,0
+656,nohi,Dhui,0.25,0,test,66,B,0
+657,nohi,shows .,0.19999999999999996,0,test,66,B,0
+658,nohi,""" 8 Vani",0.25,0,test,66,B,0
+659,nohi,doshi,0.6,0,test,66,B,0
+660,nohi,doshi,0.6,0,test,66,B,0
+661,nohi,nohi,1.0,1,test,66,B,1
+662,taruni,iarum,0.5,0,dev,103,B,0
+663,taruni,Taruni,1.0,1,dev,103,B,1
+664,taruni,Taruni,1.0,1,dev,103,B,1
+665,taruni,larynx .,0.5,0,dev,103,B,1
+666,taruni,Taruni,1.0,1,dev,103,B,0
+667,taruni,Taruni,1.0,1,dev,103,B,1
+668,taruni,Taruni,1.0,1,dev,103,B,1
+669,taruni,Tarmi .,0.6666666666666667,0,dev,103,B,1
+670,taruni,Tarussi,0.7142857142857143,0,dev,103,B,1
+671,taruni,Taruni,1.0,1,dev,103,B,1
+672,taruni,Taruni,1.0,1,dev,103,B,1
+673,ashabenhur,Ashabenhus,0.9,1,dev,10,B,1
+674,ashabenhur,Ablo Dennis .,0.30000000000000004,0,dev,10,B,0
+675,ashabenhur,2-10 Benhees,0.30000000000000004,0,dev,10,B,0
+676,ashabenhur,Astsbe Benheen,0.46153846153846156,0,dev,10,B,0
+677,ashabenhur,Ashabantown .,0.5454545454545454,0,dev,10,B,0
+678,ashabenhur,Adoka Benheese,0.46153846153846156,0,dev,10,B,0
+679,ashabenhur,dishelbenhus .,0.5833333333333333,0,dev,10,B,0
+680,ashabenhur,Global Bankers .,0.3076923076923077,0,dev,10,B,0
+681,ashabenhur,Asha Benhuis,0.8181818181818181,1,dev,10,B,1
+682,ashabenhur,dishelbenauer .,0.5384615384615384,0,dev,10,B,0
+683,ashabenhur,Askabenheim .,0.6363636363636364,0,dev,10,B,0
+684,pgayathri,P. Groupallers .,0.33333333333333337,0,test,32,B,0
+685,pgayathri,v.cjongaess,0.0,0,test,32,B,0
+686,pgayathri,P. Ganqueless,0.2727272727272727,0,test,32,B,0
+687,pgayathri,P. Quayattris,0.6363636363636364,0,test,32,B,0
+688,pgayathri,P.Guyotrini,0.5,0,test,32,B,0
+689,pgayathri,to-Graycreston .,0.23076923076923073,0,test,32,B,0
+690,pgayathri,P. Gadagatomi,0.5454545454545454,0,test,32,B,0
+691,pgayathri,pp. Gragatory,0.5454545454545454,0,test,32,B,0
+692,pgayathri,to-equisition .,0.08333333333333337,0,test,32,B,0
+693,pgayathri,P. Gaynters .,0.6666666666666667,0,test,32,B,0
+694,pgayathri,P. Grayassons .,0.4545454545454546,0,test,32,B,0
+695,rani,Rani,1.0,1,dev,79,B,1
+696,rani,Rani,1.0,1,dev,79,B,1
+697,rani,Rani,1.0,1,dev,79,B,1
+698,rani,Rani,1.0,1,dev,79,B,1
+699,rani,Rani,1.0,1,dev,79,B,1
+700,rani,Rani,1.0,1,dev,79,B,1
+701,rani,Rani,1.0,1,dev,79,B,1
+702,rani,( Kauni,0.6,0,dev,79,B,0
+703,rani,Rani,1.0,1,dev,79,B,1
+704,rani,Rani,1.0,1,dev,79,B,1
+705,rani,Rani,1.0,1,dev,79,B,1
+706,jaye,joye .,0.75,0,dev,41,B,0
+707,jaye,puff,0.0,0,dev,41,B,0
+708,jaye,faye .,0.75,0,dev,41,B,0
+709,jaye,joye .,0.75,0,dev,41,B,0
+710,jaye,joyage,0.5,0,dev,41,B,0
+711,jaye,joye,0.75,0,dev,41,B,0
+712,jaye,faye .,0.75,0,dev,41,B,0
+713,jaye,joye,0.75,0,dev,41,B,0
+714,jaye,joyo,0.5,0,dev,41,B,0
+715,jaye,joy .,0.5,0,dev,41,B,0
+716,jaye,joyon .,0.4,0,dev,41,B,0
+717,esha,est no,0.4,0,test,30,B,0
+718,esha,extra,0.4,0,test,30,B,0
+719,esha,2she,0.5,0,test,30,B,0
+720,esha,ashe .,0.5,0,test,30,B,0
+721,esha,esha,1.0,1,test,30,B,0
+722,esha,sche-,0.25,0,test,30,B,0
+723,esha,2sha,0.75,0,test,30,B,0
+724,esha,eshe .,0.75,0,test,30,B,0
+725,esha,some .,0.0,0,test,30,B,0
+726,esha,3she,0.5,0,test,30,B,0
+727,esha,ashe,0.5,0,test,30,B,0
+728,rony,0s,0.0,0,dev,83,B,0
+729,rony,Round of,0.4285714285714286,0,dev,83,B,0
+730,rony,reasons .,0.4285714285714286,0,dev,83,B,0
+731,rony,Grant .,0.4,0,dev,83,B,0
+732,rony,0rows .,0.5,0,dev,83,B,0
+733,rony,Romy,0.75,0,dev,83,B,0
+734,rony,Roy,0.75,0,dev,83,B,0
+735,rony,Root,0.5,0,dev,83,B,0
+736,rony,Round of,0.4285714285714286,0,dev,83,B,0
+737,rony,Goerf,0.19999999999999996,0,dev,83,B,0
+738,rony,Bank,0.25,0,dev,83,B,0
+739,msauty,we satouts .,0.4444444444444444,0,dev,63,B,0
+740,msauty,""" U.S.S.S.S.S.",0.16666666666666663,0,dev,63,B,0
+741,msauty,me . Satyr .,0.5714285714285714,0,dev,63,B,0
+742,msauty,Mr. Sandwyn,0.4444444444444444,0,dev,63,B,0
+743,msauty,Mr. Souwyn,0.5,0,dev,63,B,0
+744,msauty,Mr. Shelley .,0.33333333333333337,0,dev,63,B,0
+745,msauty,Mr. Sandys,0.5,0,dev,63,B,0
+746,msauty,Mr. Soulyn .,0.5,0,dev,63,B,0
+747,msauty,Mr. Sanders,0.33333333333333337,0,dev,63,B,0
+748,msauty,Mr. Barton,0.375,0,dev,63,B,0
+749,msauty,Mr. Souter,0.5,0,dev,63,B,0
+750,salithi,balatli,0.5714285714285714,0,dev,85,B,0
+751,salithi,salvethi,0.75,0,dev,85,B,0
+752,salithi,sakitsi,0.7142857142857143,0,dev,85,B,0
+753,salithi,ealsthi,0.7142857142857143,0,dev,85,B,0
+754,salithi,schethe,0.4285714285714286,0,dev,85,B,0
+755,salithi,sachore . I,0.375,0,dev,85,B,0
+756,salithi,sodaitsi,0.5,0,dev,85,B,0
+757,salithi,sahuitsi,0.625,0,dev,85,B,0
+758,salithi,sakthi,0.7142857142857143,0,dev,85,B,0
+759,salithi,saskitli .,0.625,0,dev,85,B,0
+760,salithi,sakithi,0.8571428571428572,1,dev,85,B,0
+761,ashwika,esthmika .,0.625,0,dev,12,B,0
+762,ashwika,ftstones .,0.125,0,dev,12,B,0
+763,ashwika,# Astomixca .,0.4444444444444444,0,dev,12,B,0
+764,ashwika,ndrusites .,0.11111111111111116,0,dev,12,B,0
+765,ashwika,astructure .,0.19999999999999996,0,dev,12,B,0
+766,ashwika,asymmiter .,0.33333333333333337,0,dev,12,B,0
+767,ashwika,Astronika .,0.5555555555555556,0,dev,12,B,0
+768,ashwika,aspermitka .,0.5,0,dev,12,B,0
+769,ashwika,ostomika .,0.5,0,dev,12,B,0
+770,ashwika,ashwaika .,0.875,1,dev,12,B,1
+771,ashwika,ast-America .,0.4,0,dev,12,B,0
+772,jirishab,lexifics .,0.125,0,dev,43,B,0
+773,jirishab,Yevigna .,0.25,0,dev,43,B,0
+774,jirishab,laxigna B.,0.375,0,dev,43,B,0
+775,jirishab,' Sarisha B,0.75,0,dev,43,B,0
+776,jirishab,gardenians .,0.19999999999999996,0,dev,43,B,0
+777,jirishab,griginals .,0.2222222222222222,0,dev,43,B,0
+778,jirishab,lavighon-,0.25,0,dev,43,B,0
+779,jirishab,Davidna B.,0.375,0,dev,43,B,0
+780,jirishab,girights .,0.5,0,dev,43,B,0
+781,jirishab,variame .,0.25,0,dev,43,B,0
+782,jirishab,Sirisha B.,0.875,1,dev,43,B,0
+783,sam,sam .,1.0,1,dev,86,B,1
+784,sam,isom .,0.5,0,dev,86,B,0
+785,sam,brown .,0.0,0,dev,86,B,0
+786,sam,form,0.25,0,dev,86,B,0
+787,sam,isom,0.5,0,dev,86,B,0
+788,sam,isam .,0.75,0,dev,86,B,0
+789,sam,power,0.0,0,dev,86,B,0
+790,sam,som,0.6666666666666667,0,dev,86,B,0
+791,sam,isam .,0.75,0,dev,86,B,0
+792,sam,isom .,0.5,0,dev,86,B,0
+793,sam,I saw,0.5,0,dev,86,B,0
+794,bhay,ronas .,0.19999999999999996,0,dev,19,B,0
+795,bhay,1 Rhos .,0.25,0,dev,19,B,0
+796,bhay,Bhey,0.75,0,dev,19,B,0
+797,bhay,Bhoquy,0.5,0,dev,19,B,0
+798,bhay,Bhoj,0.5,0,dev,19,B,0
+799,bhay,Bhojoy,0.5,0,dev,19,B,0
+800,bhay,Bhoquy,0.5,0,dev,19,B,0
+801,bhay,Bhay,1.0,1,dev,19,B,1
+802,bhay,Bhoj,0.5,0,dev,19,B,0
+803,bhay,13thoy,0.5,0,dev,19,B,0
+804,bhay,1 Bhag,0.75,0,dev,19,B,0
+805,praul,Promote .,0.2857142857142857,0,dev,72,B,0
+806,praul,Praud :,0.8,1,dev,72,B,1
+807,praul,Prauffi,0.5714285714285714,0,dev,72,B,0
+808,praul,PRampi .,0.5,0,dev,72,B,0
+809,praul,Prault .,0.8333333333333334,1,dev,72,B,0
+810,praul,prant .,0.6,0,dev,72,B,0
+811,praul,Prauti,0.6666666666666667,0,dev,72,B,0
+812,praul,Prounfi,0.4285714285714286,0,dev,72,B,0
+813,praul,prant .,0.6,0,dev,72,B,0
+814,praul,Prauffi,0.5714285714285714,0,dev,72,B,0
+815,praul,PROUNT .,0.5,0,dev,72,B,0
+816,spreethi,S. Prasthi .,0.75,0,dev,35,B,0
+817,spreethi,S. Preethi .,1.0,1,dev,35,B,1
+818,spreethi,s. Kreetty .,0.625,0,dev,35,B,0
+819,spreethi,S. Preeth ;,0.875,1,dev,35,B,1
+820,spreethi,s. Preeth ;,0.875,1,dev,35,B,1
+821,spreethi,S. Preethi .,1.0,1,dev,35,B,1
+822,spreethi,S. Preeth ;,0.875,1,dev,35,B,1
+823,spreethi,S. Preethi,1.0,1,dev,35,B,1
+824,spreethi,S. Preethip .,0.8888888888888888,1,dev,35,B,1
+825,spreethi,S. Preethi,1.0,1,dev,35,B,1
+826,spreethi,S. Preeth ;,0.875,1,dev,35,B,1
+827,klahary,R. Malvary,0.5,0,dev,56,B,0
+828,klahary,re-samay .,0.2857142857142857,0,dev,56,B,0
+829,klahary,K.nanoerix,0.33333333333333337,0,dev,56,B,0
+830,klahary,x. sansaf .,0.1428571428571429,0,dev,56,B,0
+831,klahary,K. railway .,0.375,0,dev,56,B,0
+832,klahary,x-malnay .,0.2857142857142857,0,dev,56,B,0
+833,klahary,x-x.xaaquf .,0.125,0,dev,56,B,0
+834,klahary,K. Lalnaci,0.5,0,dev,56,B,0
+835,klahary,ex Raenazi .,0.2222222222222222,0,dev,56,B,0
+836,klahary,x.range .,0.1428571428571429,0,dev,56,B,0
+837,klahary,x naanas ;,0.1428571428571429,0,dev,56,B,0
+838,teju,rejection .,0.2222222222222222,0,test,104,B,0
+839,teju,feix,0.25,0,test,104,B,0
+840,teju,feigs .,0.19999999999999996,0,test,104,B,0
+841,teju,reign,0.19999999999999996,0,test,104,B,0
+842,teju,peju,0.75,0,test,104,B,0
+843,teju,feigs .,0.19999999999999996,0,test,104,B,0
+844,teju,Deix,0.25,0,test,104,B,0
+845,teju,rep,0.25,0,test,104,B,0
+846,teju,teyer .,0.4,0,test,104,B,0
+847,teju,veigs .,0.19999999999999996,0,test,104,B,0
+848,teju,reign,0.19999999999999996,0,test,104,B,0
+849,ashu,technier .,0.125,0,dev,11,B,0
+850,ashu,arhus .,0.6,0,dev,11,B,0
+851,ashu,astner .,0.33333333333333337,0,dev,11,B,0
+852,ashu,Ashus,0.8,1,dev,11,B,1
+853,ashu,Ashu,1.0,1,dev,11,B,0
+854,ashu,Ashin,0.6,0,dev,11,B,0
+855,ashu,Ashoe,0.6,0,dev,11,B,0
+856,ashu,I Abreu . I,0.2857142857142857,0,dev,11,B,0
+857,ashu,Ashur,0.8,1,dev,11,B,1
+858,ashu,Ashe,0.75,0,dev,11,B,0
+859,ashu,Ashne,0.6,0,dev,11,B,0
+860,gujalu,rangels .,0.1428571428571429,0,dev,36,B,0
+861,gujalu,a niceful,0.125,0,dev,36,B,0
+862,gujalu,conigatory,0.09999999999999998,0,dev,36,B,0
+863,gujalu,sagatti,0.1428571428571429,0,dev,36,B,0
+864,gujalu,cents .,0.0,0,dev,36,B,0
+865,gujalu,"I cantero ,",0.0,0,dev,36,B,0
+866,gujalu,cruffa,0.0,0,dev,36,B,0
+867,gujalu,gmpalm .,0.5,0,dev,36,B,0
+868,gujalu,goefie .,0.16666666666666663,0,dev,36,B,0
+869,gujalu,guete,0.33333333333333337,0,dev,36,B,0
+870,gujalu,coniferous,0.09999999999999998,0,dev,36,B,0
+871,nreefon,MRREFENN .,0.5,0,dev,67,B,0
+872,nreefon,agree from,0.5555555555555556,0,dev,67,B,0
+873,nreefon,Neegem .,0.4285714285714286,0,dev,67,B,0
+874,nreefon,vleifm .,0.2857142857142857,0,dev,67,B,0
+875,nreefon,repeefan .,0.5,0,dev,67,B,0
+876,nreefon,nfeefm .,0.5714285714285714,0,dev,67,B,0
+877,nreefon,Neefan,0.7142857142857143,0,dev,67,B,0
+878,nreefon,wreem .,0.4285714285714286,0,dev,67,B,0
+879,nreefon,nifeefena,0.5555555555555556,0,dev,67,B,0
+880,nreefon,preefan .,0.7142857142857143,0,dev,67,B,0
+881,nreefon,nfloem .,0.1428571428571429,0,dev,67,B,0
+882,vennelay,Vennelal,0.875,1,dev,108,B,1
+883,vennelay,vennelal,0.875,1,dev,108,B,1
+884,vennelay,1- Amelia .,0.25,0,dev,108,B,0
+885,vennelay,slennelay,0.7777777777777778,0,dev,108,B,1
+886,vennelay,vanneias,0.625,0,dev,108,B,0
+887,vennelay,vernald .,0.5,0,dev,108,B,0
+888,vennelay,verness .,0.5,0,dev,108,B,0
+889,vennelay,vannolas I,0.5555555555555556,0,dev,108,B,0
+890,vennelay,Vannalal,0.625,0,dev,108,B,0
+891,vennelay,Vennelal,0.875,1,dev,108,B,0
+892,vennelay,nemmeled,0.375,0,dev,108,B,0
+893,priya,priya,1.0,1,dev,75,B,1
+894,priya,sprys .,0.4,0,dev,75,B,0
+895,priya,Pri ye,0.8,1,dev,75,B,1
+896,priya,Priyo,0.8,1,dev,75,B,1
+897,priya,polys,0.4,0,dev,75,B,0
+898,priya,Priya 1 .,1.0,1,dev,75,B,1
+899,priya,Priys,0.8,1,dev,75,B,1
+900,priya,priyo,0.8,1,dev,75,B,1
+901,priya,Priyer .,0.6666666666666667,0,dev,75,B,1
+902,priya,polys,0.4,0,dev,75,B,1
+903,priya,Priya,1.0,1,dev,75,B,0
+904,susrutha,susturna,0.625,0,dev,101,B,0
+905,susrutha,I susruena,0.6666666666666667,0,dev,101,B,0
+906,susrutha,1 Business .,0.25,0,dev,101,B,0
+907,susrutha,susrutha,1.0,1,dev,101,B,1
+908,susrutha,suss with a,0.6666666666666667,0,dev,101,B,0
+909,susrutha,"susturna ,",0.625,0,dev,101,B,0
+910,susrutha,susrutha,1.0,1,dev,101,B,0
+911,susrutha,I summa,0.375,0,dev,101,B,0
+912,susrutha,sunshine .,0.25,0,dev,101,B,0
+913,susrutha,I susquena,0.5555555555555556,0,dev,101,B,0
+914,susrutha,sussutta,0.75,0,dev,101,B,0
+915,vyshnavi,""" Besshnavi",0.6666666666666667,0,dev,109,B,0
+916,vyshnavi,I elephant .,0.11111111111111116,0,dev,109,B,0
+917,vyshnavi,high-mphnasi,0.36363636363636365,0,dev,109,B,0
+918,vyshnavi,veyshnow .,0.5,0,dev,109,B,0
+919,vyshnavi,physicians .,0.30000000000000004,0,dev,109,B,0
+920,vyshnavi,veighnani,0.5555555555555556,0,dev,109,B,0
+921,vyshnavi,eleyshnaui .,0.6,0,dev,109,B,0
+922,vyshnavi,vyshnani,0.875,1,dev,109,B,1
+923,vyshnavi,eleyshnaui,0.6,0,dev,109,B,0
+924,vyshnavi,lysitnaui .,0.5555555555555556,0,dev,109,B,0
+925,vyshnavi,Iulaphnavi,0.5,0,dev,109,B,0
+926,anushka,A manhree .,0.25,0,dev,7,B,0
+927,anushka,""" a smoker .",0.1428571428571429,0,dev,7,B,0
+928,anushka,Anahe,0.4285714285714286,0,dev,7,B,0
+929,anushka,Amitka,0.4285714285714286,0,dev,7,B,0
+930,anushka,Aranhoe,0.2857142857142857,0,dev,7,B,0
+931,anushka,Another act,0.4,0,dev,7,B,0
+932,anushka,Amarhikes,0.33333333333333337,0,dev,7,B,0
+933,anushka,Arakka,0.4285714285714286,0,dev,7,B,0
+934,anushka,A marked .,0.1428571428571429,0,dev,7,B,0
+935,anushka,Aristide,0.25,0,dev,7,B,0
+936,anushka,Ampahte,0.2857142857142857,0,dev,7,B,0
+937,keshwar,Keshwar,1.0,1,dev,53,B,1
+938,keshwar,Keshwar,1.0,1,dev,53,B,1
+939,keshwar,re-estress .,0.2222222222222222,0,dev,53,B,0
+940,keshwar,K. Erneso,0.2857142857142857,0,dev,53,B,0
+941,keshwar,1 References .,0.09999999999999998,0,dev,53,B,0
+942,keshwar,K.Eshow,0.5714285714285714,0,dev,53,B,0
+943,keshwar,to-census .,0.0,0,dev,53,B,0
+944,keshwar,presessory .,0.30000000000000004,0,dev,53,B,0
+945,keshwar,K.C.S RES.,0.2857142857142857,0,dev,53,B,0
+946,keshwar,10- Erikson .,0.0,0,dev,53,B,0
+947,keshwar,1 Reference .,0.11111111111111116,0,dev,53,B,0
+948,kays,nouge .,0.0,0,dev,51,B,0
+949,kays,house .,0.19999999999999996,0,dev,51,B,0
+950,kays,navy,0.25,0,dev,51,B,0
+951,kays,knows .,0.4,0,dev,51,B,0
+952,kays,kangi,0.4,0,dev,51,B,0
+953,kays,knap .,0.25,0,dev,51,B,0
+954,kays,reverse,0.1428571428571429,0,dev,51,B,0
+955,kays,house . I,0.16666666666666663,0,dev,51,B,0
+956,kays,were,0.0,0,dev,51,B,0
+957,kays,kamp .,0.5,0,dev,51,B,0
+958,kays,house .,0.19999999999999996,0,dev,51,B,0
+959,sriya,sroya,0.8,1,dev,75,B,1
+960,sriya,sriya,1.0,1,dev,75,B,1
+961,sriya,craina,0.5,0,dev,75,B,0
+962,sriya,sniya,0.8,1,dev,75,B,1
+963,sriya,srelyed,0.4285714285714286,0,dev,75,B,0
+964,sriya,srelya,0.6666666666666667,0,dev,75,B,0
+965,sriya,sniya,0.8,1,dev,75,B,1
+966,sriya,sriiga,0.6666666666666667,0,dev,75,B,0
+967,sriya,sripe .,0.6,0,dev,75,B,1
+968,sriya,sriya,1.0,1,dev,75,B,1
+969,sriya,sniya,0.8,1,dev,75,B,1
+970,kemay,1 to-much .,0.16666666666666663,0,dev,52,B,0
+971,kemay,koma f,0.6,0,dev,52,B,0
+972,kemay,Economy .,0.1428571428571429,0,dev,52,B,0
+973,kemay,komvaz,0.5,0,dev,52,B,0
+974,kemay,rearmay .,0.5714285714285714,0,dev,52,B,0
+975,kemay,fromway .,0.4285714285714286,0,dev,52,B,0
+976,kemay,exomons .,0.1428571428571429,0,dev,52,B,0
+977,kemay,koma j,0.6,0,dev,52,B,0
+978,kemay,koma f,0.6,0,dev,52,B,0
+979,kemay,koma's,0.6,0,dev,52,B,0
+980,kemay,format .,0.33333333333333337,0,dev,52,B,0
+981,esathwika,E.Sathui Ka,0.8888888888888888,1,dev,29,B,0
+982,esathwika,R. southwestsea .,0.3846153846153846,0,dev,29,B,0
+983,esathwika,E. Sathywika,0.9,1,dev,29,B,1
+984,esathwika,E. Sorrowika,0.6,0,dev,29,B,0
+985,esathwika,E sathuika,0.8888888888888888,1,dev,29,B,1
+986,esathwika,E. Sathywika,0.9,1,dev,29,B,0
+987,esathwika,E. Sathywiken,0.7272727272727273,0,dev,29,B,1
+988,esathwika,B. Sathyorica,0.5454545454545454,0,dev,29,B,0
+989,esathwika,- Stanika,0.5555555555555556,0,dev,29,B,0
+990,esathwika,E. Sathyoka,0.7777777777777778,0,dev,29,B,1
+991,esathwika,e. saftiwika .,0.8,1,dev,29,B,0
+992,pravallika,Provollika,0.8,1,dev,73,B,1
+993,pravallika,Provallika,0.9,1,dev,73,B,1
+994,pravallika,Provallica,0.8,1,dev,73,B,1
+995,pravallika,ravallito,0.7,0,dev,73,B,1
+996,pravallika,Provallika .,0.9,1,dev,73,B,1
+997,pravallika,Provallier .,0.7,0,dev,73,B,0
+998,pravallika,Provalls tea .,0.6363636363636364,0,dev,73,B,0
+999,pravallika,provallica .,0.8,1,dev,73,B,1
+1000,pravallika,Provallikes .,0.7272727272727273,0,dev,73,B,0
+1001,pravallika,Provallica .,0.8,1,dev,73,B,1
+1002,pravallika,Provallise,0.7,0,dev,73,B,0
+1003,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1004,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1005,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1006,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1007,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1008,kpushpa,Koushpa,0.8571428571428572,1,test,58,B,1
+1009,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1010,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1011,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1012,kpushpa,K. Pushpa,1.0,1,test,58,B,1
+1013,kpushpa,K. Pushpot,0.75,0,test,58,B,0
+1014,sandini,Randini,0.8571428571428572,1,dev,87,B,1
+1015,sandini,gandini,0.8571428571428572,1,dev,87,B,1
+1016,sandini,randini,0.8571428571428572,1,dev,87,B,1
+1017,sandini,gardini,0.7142857142857143,0,dev,87,B,0
+1018,sandini,sandini,1.0,1,dev,87,B,1
+1019,sandini,landini,0.8571428571428572,1,dev,87,B,1
+1020,sandini,handwick .,0.5,0,dev,87,B,0
+1021,sandini,Xanue .,0.2857142857142857,0,dev,87,B,0
+1022,sandini,Sandini,1.0,1,dev,87,B,1
+1023,sandini,landini,0.8571428571428572,1,dev,87,B,1
+1024,sandini,standier .,0.625,0,dev,87,B,0
+1025,bhagyasri,peronames .,0.11111111111111116,0,dev,17,B,0
+1026,bhagyasri,Bhaqqani,0.5555555555555556,0,dev,17,B,0
+1027,bhagyasri,rehnagyage,0.4,0,dev,17,B,0
+1028,bhagyasri,synonyms,0.11111111111111116,0,dev,17,B,0
+1029,bhagyasri,phagnesse,0.4444444444444444,0,dev,17,B,0
+1030,bhagyasri,rehnagasui,0.5,0,dev,17,B,0
+1031,bhagyasri,penagogue .,0.11111111111111116,0,dev,17,B,0
+1032,bhagyasri,phagyasso,0.6666666666666667,0,dev,17,B,0
+1033,bhagyasri,phaggers .,0.4444444444444444,0,dev,17,B,0
+1034,bhagyasri,Bhoopyewski,0.4545454545454546,0,dev,17,B,0
+1035,bhagyasri,I Bhagyasie .,0.7,0,dev,17,B,0
+1036,mrushika,1.,0.0,0,test,62,B,0
+1037,mrushika,M. Rusnika,0.875,1,test,62,B,1
+1038,mrushika,MR. Russia,0.625,0,test,62,B,0
+1039,mrushika,M. Roshika,0.875,1,test,62,B,1
+1040,mrushika,M. Rushika,1.0,1,test,62,B,1
+1041,mrushika,M Rusnika,0.875,1,test,62,B,1
+1042,mrushika,MR. Rusnika,0.7777777777777778,0,test,62,B,0
+1043,mrushika,M. Rosnika,0.75,0,test,62,B,0
+1044,mrushika,M. Rusnika,0.875,1,test,62,B,1
+1045,mrushika,M. Rushika,1.0,1,test,62,B,1
+1046,mrushika,MR. Rushiba,0.7777777777777778,0,test,62,B,0
+1047,ysuvarna,of Bursons .,0.2222222222222222,0,dev,76,B,0
+1048,ysuvarna,""" teenagers .",0.11111111111111116,0,dev,76,B,0
+1049,ysuvarna,of pneumonia .,0.18181818181818177,0,dev,76,B,0
+1050,ysuvarna,1. Suvanna,0.75,0,dev,76,B,0
+1051,ysuvarna,t. sumname .,0.25,0,dev,76,B,0
+1052,ysuvarna,I tiocorana I,0.2727272727272727,0,dev,76,B,0
+1053,ysuvarna,of insurance .,0.2727272727272727,0,dev,76,B,0
+1054,ysuvarna,4. Sumana,0.625,0,dev,76,B,0
+1055,ysuvarna,""" Plewann .",0.25,0,dev,76,B,0
+1056,ysuvarna,4- Buvanna .,0.625,0,dev,76,B,0
+1057,ysuvarna,""" Yususawa",0.5,0,dev,76,B,0
+1058,rashikaur,row .,0.11111111111111116,0,dev,80,B,0
+1059,rashikaur,Ratti Kano,0.5555555555555556,0,dev,80,B,0
+1060,rashikaur,Ratti Kan,0.5555555555555556,0,dev,80,B,0
+1061,rashikaur,Rashi Kaue,0.8888888888888888,1,dev,80,B,0
+1062,rashikaur,Radi Kaur,0.7777777777777778,0,dev,80,B,0
+1063,rashikaur,Rashi Kano,0.7777777777777778,0,dev,80,B,0
+1064,rashikaur,Round 5,0.11111111111111116,0,dev,80,B,0
+1065,rashikaur,I Rami Kaur,0.6666666666666667,0,dev,80,B,0
+1066,rashikaur,Rashi kane,0.7777777777777778,0,dev,80,B,0
+1067,rashikaur,Rashi Kaur,1.0,1,dev,80,B,1
+1068,rashikaur,Rashi Kann,0.7777777777777778,0,dev,80,B,0
+1069,rinkidutta,Rinki Hallon .,0.4545454545454546,0,dev,81,B,0
+1070,rinkidutta,Rinki Dutton,0.8181818181818181,1,dev,81,B,0
+1071,rinkidutta,Rishi Molla,0.4,0,dev,81,B,0
+1072,rinkidutta,Rinki Dulton,0.7272727272727273,0,dev,81,B,0
+1073,rinkidutta,Rinki Dutton,0.8181818181818181,1,dev,81,B,0
+1074,rinkidutta,Rinki Dallon,0.5454545454545454,0,dev,81,B,0
+1075,rinkidutta,Rinki Datta,0.9,1,dev,81,B,0
+1076,rinkidutta,Rinki Mullon,0.5454545454545454,0,dev,81,B,0
+1077,rinkidutta,Rinki Dutton,0.8181818181818181,1,dev,81,B,1
+1078,rinkidutta,I Zinki Fudla,0.5454545454545454,0,dev,81,B,0
+1079,rinkidutta,Rinki Pullon ) :,0.5454545454545454,0,dev,81,B,0
+1080,snehaghosh,scene-processes,0.2857142857142857,0,dev,94,B,0
+1081,snehaghosh,smaha Church .,0.4545454545454546,0,dev,94,B,0
+1082,snehaghosh,sneha odnosh .,0.7272727272727273,0,dev,94,B,0
+1083,snehaghosh,smaha cubosin .,0.41666666666666663,0,dev,94,B,0
+1084,snehaghosh,sneha ambush .,0.6363636363636364,0,dev,94,B,0
+1085,snehaghosh,sneha Ghosh,1.0,1,dev,94,B,0
+1086,snehaghosh,Lomeher schools .,0.2857142857142857,0,dev,94,B,0
+1087,snehaghosh,smaha-Colorado,0.3076923076923077,0,dev,94,B,0
+1088,snehaghosh,smana canoden .,0.25,0,dev,94,B,0
+1089,snehaghosh,sneha Ghosh,1.0,1,dev,94,B,1
+1090,snehaghosh,sneha orchodah .,0.6153846153846154,0,dev,94,B,0
+1091,kgeetha,K.Geetta,0.8571428571428572,1,dev,54,B,1
+1092,kgeetha,to-creens .,0.125,0,dev,54,B,0
+1093,kgeetha,K.Gretta,0.7142857142857143,0,dev,54,B,0
+1094,kgeetha,K-Geebbi,0.5714285714285714,0,dev,54,B,0
+1095,kgeetha,K.Gaetta,0.7142857142857143,0,dev,54,B,0
+1096,kgeetha,K-Geetha,1.0,1,dev,54,B,1
+1097,kgeetha,K.Gaetta,0.7142857142857143,0,dev,54,B,0
+1098,kgeetha,Izzarella .,0.2222222222222222,0,dev,54,B,0
+1099,kgeetha,K. Greetta,0.75,0,dev,54,B,0
+1100,kgeetha,K.Gretto,0.5714285714285714,0,dev,54,B,0
+1101,kgeetha,K.Geetho,0.8571428571428572,1,dev,54,B,1
+1102,asingh,4 since,0.5,0,dev,13,B,0
+1103,asingh,A. Singh .,1.0,1,dev,13,B,1
+1104,asingh,A. Singh .,1.0,1,dev,13,B,1
+1105,asingh,a total,0.16666666666666663,0,dev,13,B,0
+1106,asingh,A-singh .,1.0,1,dev,13,B,1
+1107,asingh,4 single .,0.5,0,dev,13,B,0
+1108,asingh,A singh .,1.0,1,dev,13,B,1
+1109,asingh,A. strength .,0.5555555555555556,0,dev,13,B,0
+1110,asingh,strength .,0.375,0,dev,13,B,0
+1111,asingh,a singh .,1.0,1,dev,13,B,1
+1112,asingh,A- Singh .,1.0,1,dev,13,B,1
+1113,sumitashaw,summen draw .,0.5,0,dev,99,B,0
+1114,sumitashaw,summitor Shaw .,0.75,0,dev,99,B,1
+1115,sumitashaw,sumita Shaw .,1.0,1,dev,99,B,1
+1116,sumitashaw,sumitou Shaw .,0.8181818181818181,1,dev,99,B,1
+1117,sumitashaw,sumition shows,0.6153846153846154,0,dev,99,B,0
+1118,sumitashaw,summita Shaw .,0.9090909090909091,1,dev,99,B,1
+1119,sumitashaw,summiton Shaw .,0.75,0,dev,99,B,0
+1120,sumitashaw,summita shows .,0.75,0,dev,99,B,0
+1121,sumitashaw,suminea Shaw .,0.8181818181818181,1,dev,99,B,1
+1122,sumitashaw,sumichon shows .,0.5384615384615384,0,dev,99,B,0
+1123,sumitashaw,sunnuca shows .,0.5,0,dev,99,B,0
+1124,damani,10.000,0.0,0,dev,26,B,0
+1125,damani,ID. Assani,0.625,0,dev,26,B,0
+1126,damani,D.O.O.S.S.S.S.S.,0.125,0,dev,26,B,0
+1127,damani,10. issuant .,0.2857142857142857,0,dev,26,B,0
+1128,damani,D. Armani,0.8571428571428572,1,dev,26,B,1
+1129,damani,D. Aronazi,0.5,0,dev,26,B,0
+1130,damani,13. Assessi,0.1428571428571429,0,dev,26,B,1
+1131,damani,D. 900mmi.,0.5,0,dev,26,B,0
+1132,damani,10. Amani,0.8333333333333334,1,dev,26,B,1
+1133,damani,LD. Amani,0.8571428571428572,1,dev,26,B,1
+1134,damani,D.amani,1.0,1,dev,26,B,1
+1135,vashnitha,v.Ashville .,0.5555555555555556,0,dev,107,B,0
+1136,vashnitha,vatsmiths .,0.5555555555555556,0,dev,107,B,0
+1137,vashnitha,v.Astritta,0.6666666666666667,0,dev,107,B,0
+1138,vashnitha,v.Ashrition,0.6,0,dev,107,B,0
+1139,vashnitha,v. Ashwitha,0.8888888888888888,1,dev,107,B,0
+1140,vashnitha,v. Asshvitha .,0.8,1,dev,107,B,1
+1141,vashnitha,v.Ashwitha,0.8888888888888888,1,dev,107,B,0
+1142,vashnitha,v. Ashti the,0.7777777777777778,0,dev,107,B,0
+1143,vashnitha,v.nemma,0.33333333333333337,0,dev,107,B,0
+1144,vashnitha,U. Ashmitha .,0.7777777777777778,0,dev,107,B,1
+1145,vashnitha,v.Ashritka,0.7777777777777778,0,dev,107,B,1
+1146,tmanasvi,T.Manaevi,0.875,1,dev,105,B,1
+1147,tmanasvi,T. Manaevi,0.875,1,dev,105,B,1
+1148,tmanasvi,T. Manasvi,1.0,1,dev,105,B,1
+1149,tmanasvi,T.MANASV.,0.875,1,dev,105,B,1
+1150,tmanasvi,T. Mannasvi,0.8888888888888888,1,dev,105,B,1
+1151,tmanasvi,T.Manaevi,0.875,1,dev,105,B,1
+1152,tmanasvi,T.Mazavi,0.75,0,dev,105,B,0
+1153,tmanasvi,T. Mississippi .,0.33333333333333337,0,dev,105,B,0
+1154,tmanasvi,T. Manasvi,1.0,1,dev,105,B,1
+1155,tmanasvi,T. Manaevi,0.875,1,dev,105,B,1
+1156,tmanasvi,T.Manasvi,1.0,1,dev,105,B,1
+1157,bnagaleju,Bonas .,0.2222222222222222,0,dev,23,B,0
+1158,bnagaleju,s-nlagekeeper .,0.33333333333333337,0,dev,23,B,0
+1159,bnagaleju,13 Nagary .,0.4444444444444444,0,dev,23,B,0
+1160,bnagaleju,# to stage again,0.25,0,dev,23,B,0
+1161,bnagaleju,B.N.A.A.C.A.A.A.,0.4444444444444444,0,dev,23,B,0
+1162,bnagaleju,QB-nlagasque .,0.4545454545454546,0,dev,23,B,0
+1163,bnagaleju,B. Nagasiyo,0.5555555555555556,0,dev,23,B,0
+1164,bnagaleju,# to antagonize,0.25,0,dev,23,B,0
+1165,bnagaleju,QB-nlaganningen .,0.3571428571428571,0,dev,23,B,0
+1166,bnagaleju,to recognise,0.0,0,dev,23,B,0
+1167,bnagaleju,PO-nlagalogy .,0.4545454545454546,0,dev,23,B,0
+1168,haridharshan,Hooridhaeshan .,0.7692307692307692,0,dev,37,B,0
+1169,haridharshan,Harrithaushaw .,0.6923076923076923,0,dev,37,B,0
+1170,haridharshan,Hazi shaesta,0.5833333333333333,0,dev,37,B,0
+1171,haridharshan,Harridharshan .,0.9230769230769231,1,dev,37,B,0
+1172,haridharshan,waridharshan,0.9166666666666666,1,dev,37,B,1
+1173,haridharshan,Hooridharsha .,0.75,0,dev,37,B,0
+1174,haridharshan,Hooridharsha,0.75,0,dev,37,B,0
+1175,haridharshan,Missishawsha .,0.41666666666666663,0,dev,37,B,0
+1176,haridharshan,Hooridharsha,0.75,0,dev,37,B,0
+1177,haridharshan,Harridharsna .,0.75,0,dev,37,B,0
+1178,haridharshan,Harridhaushan .,0.8461538461538461,1,dev,37,B,1
+1179,aheenbegum,African Premier .,0.2142857142857143,0,dev,3,B,0
+1180,aheenbegum,African Belgium .,0.5,0,dev,3,B,0
+1181,aheenbegum,African Belgium .,0.5,0,dev,3,B,0
+1182,aheenbegum,African Belgium .,0.5,0,dev,3,B,0
+1183,aheenbegum,African Oregon,0.3076923076923077,0,dev,3,B,0
+1184,aheenbegum,African Belgium .,0.5,0,dev,3,B,0
+1185,aheenbegum,African Belgium .,0.5,0,dev,3,B,0
+1186,aheenbegum,African Belgium .,0.5,0,dev,3,B,0
+1187,aheenbegum,Athan Begum .,0.7,0,dev,3,B,0
+1188,aheenbegum,African Regum .,0.5,0,dev,3,B,0
+1189,aheenbegum,African leagues .,0.3571428571428571,0,dev,3,B,0
+1190,sravautlii,Stravanette .,0.4545454545454546,0,dev,97,B,0
+1191,sravautlii,Sravanoui,0.6,0,dev,97,B,0
+1192,sravautlii,Sravaelli,0.7,0,dev,97,B,0
+1193,sravautlii,Sravanthi .,0.7,0,dev,97,B,0
+1194,sravautlii,Sravantici,0.7,0,dev,97,B,0
+1195,sravautlii,Sravantei,0.7,0,dev,97,B,0
+1196,sravautlii,sravanens .,0.5,0,dev,97,B,0
+1197,sravautlii,Sravanthi,0.7,0,dev,97,B,0
+1198,sravautlii,Sravantini,0.7,0,dev,97,B,0
+1199,sravautlii,- Sravanshi,0.6,0,dev,97,B,0
+1200,sravautlii,' Sravancia ',0.6,0,dev,97,B,0
+1201,jhansi,thanci .,0.6666666666666667,0,test,42,B,0
+1202,jhansi,mansi .,0.6666666666666667,0,test,42,B,0
+1203,jhansi,mansi .,0.6666666666666667,0,test,42,B,0
+1204,jhansi,mansi .,0.6666666666666667,0,test,42,B,1
+1205,jhansi,mansi .,0.6666666666666667,0,test,42,B,1
+1206,jhansi,mansi .,0.6666666666666667,0,test,42,B,0
+1207,jhansi,mansi .,0.6666666666666667,0,test,42,B,0
+1208,jhansi,mansi .,0.6666666666666667,0,test,42,B,0
+1209,jhansi,mansi .,0.6666666666666667,0,test,42,B,0
+1210,jhansi,Jhansi,1.0,1,test,42,B,0
+1211,jhansi,shansi,0.8333333333333334,1,test,42,B,1
+1212,aaishwarya,s. Aschnoza ya,0.36363636363636365,0,dev,0,B,1
+1213,aaishwarya,A dishonorca .,0.5454545454545454,0,dev,0,B,0
+1214,aaishwarya,A Highway .,0.6,0,dev,0,B,0
+1215,aaishwarya,A. Aishasarya,0.8181818181818181,1,dev,0,B,1
+1216,aaishwarya,A. Asstensarva .,0.5,0,dev,0,B,0
+1217,aaishwarya,A fishways .,0.7,0,dev,0,B,1
+1218,aaishwarya,A. Aishwarya,1.0,1,dev,0,B,1
+1219,aaishwarya,s. Aishwarya,0.9,1,dev,0,B,1
+1220,aaishwarya,A Schnusarya .,0.4545454545454546,0,dev,0,B,0
+1221,aaishwarya,A. Aishwarya,1.0,1,dev,0,B,1
+1222,aaishwarya,A spinways .,0.4,0,dev,0,B,0
+1223,psuvarna,a surname .,0.375,0,dev,76,B,0
+1224,psuvarna,p. suvanna .,0.875,1,dev,76,B,0
+1225,psuvarna,p.swarma .,0.625,0,dev,76,B,0
+1226,psuvarna,P. SUVARNA,1.0,1,dev,76,B,1
+1227,psuvarna,pisuvasma,0.6666666666666667,0,dev,76,B,0
+1228,psuvarna,pesuvarna .,0.8888888888888888,1,dev,76,B,0
+1229,psuvarna,pravarra,0.625,0,dev,76,B,0
+1230,psuvarna,p suvanna .,0.875,1,dev,76,B,1
+1231,psuvarna,p suvanna .,0.875,1,dev,76,B,0
+1232,psuvarna,""" p.swanna .",0.625,0,dev,76,B,1
+1233,psuvarna,pervanna .,0.625,0,dev,76,B,0
+1234,duy,Day,0.6666666666666667,0,test,27,B,0
+1235,duy,airs,0.0,0,test,27,B,0
+1236,duy,Day,0.6666666666666667,0,test,27,B,0
+1237,duy,Deer,0.25,0,test,27,B,0
+1238,duy,0rs .,0.0,0,test,27,B,0
+1239,duy,as,0.0,0,test,27,B,0
+1240,duy,0rs .,0.0,0,test,27,B,0
+1241,duy,1 0vs .,0.0,0,test,27,B,0
+1242,duy,des,0.33333333333333337,0,test,27,B,0
+1243,duy,des,0.33333333333333337,0,test,27,B,0
+1244,duy,des,0.33333333333333337,0,test,27,B,0
+1245,bkhalid,B. Barclay .,0.25,0,dev,21,B,0
+1246,bkhalid,exhaustful,0.19999999999999996,0,dev,21,B,0
+1247,bkhalid,to-th century .,0.09090909090909094,0,dev,21,B,0
+1248,bkhalid,us perhaps,0.11111111111111116,0,dev,21,B,0
+1249,bkhalid,bittroy .,0.1428571428571429,0,dev,21,B,0
+1250,bkhalid,a total of,0.25,0,dev,21,B,0
+1251,bkhalid,B.Kholof .,0.5714285714285714,0,dev,21,B,0
+1252,bkhalid,external and,0.2727272727272727,0,dev,21,B,0
+1253,bkhalid,Bitshawdd,0.4444444444444444,0,dev,21,B,0
+1254,bkhalid,13. KH.DOT,0.2857142857142857,0,dev,21,B,0
+1255,bkhalid,soung,0.0,0,dev,21,B,0
+1256,hayukha,elaysurelia,0.36363636363636365,0,test,38,B,0
+1257,hayukha,Hayukha,1.0,1,test,38,B,1
+1258,hayukha,10- Butcha,0.2857142857142857,0,test,38,B,0
+1259,hayukha,Harymkhia,0.6666666666666667,0,test,38,B,0
+1260,hayukha,Hausukina,0.5555555555555556,0,test,38,B,0
+1261,hayukha,playmaking,0.30000000000000004,0,test,38,B,0
+1262,hayukha,slaymen .,0.1428571428571429,0,test,38,B,0
+1263,hayukha,slavymecha .,0.4,0,test,38,B,0
+1264,hayukha,Haysumbha,0.6666666666666667,0,test,38,B,0
+1265,hayukha,playmaking,0.30000000000000004,0,test,38,B,0
+1266,hayukha,elaguesmen .,0.19999999999999996,0,test,38,B,0
+1267,suhas,surnous,0.4285714285714286,0,test,98,B,0
+1268,suhas,suchas,0.8333333333333334,1,test,98,B,1
+1269,suhas,survears .,0.5,0,test,98,B,0
+1270,suhas,suit as,0.6666666666666667,0,test,98,B,0
+1271,suhas,such as,0.8333333333333334,1,test,98,B,0
+1272,suhas,sarkers .,0.2857142857142857,0,test,98,B,0
+1273,suhas,subhas,0.8333333333333334,1,test,98,B,1
+1274,suhas,selves,0.33333333333333337,0,test,98,B,0
+1275,suhas,sains .,0.4,0,test,98,B,0
+1276,suhas,Suhas,1.0,1,test,98,B,0
+1277,suhas,surnas .,0.6666666666666667,0,test,98,B,0
+1278,bkavita,B. Kouilla,0.5,0,dev,20,B,0
+1279,bkavita,B-Kawita,0.8571428571428572,1,dev,20,B,1
+1280,bkavita,B-Kawira,0.7142857142857143,0,dev,20,B,0
+1281,bkavita,15. Known,0.1428571428571429,0,dev,20,B,0
+1282,bkavita,B.Kawitta,0.75,0,dev,20,B,0
+1283,bkavita,I 13-reavista,0.5555555555555556,0,dev,20,B,0
+1284,bkavita,8 . Kowiva,0.4285714285714286,0,dev,20,B,0
+1285,bkavita,B.ROUVES,0.1428571428571429,0,dev,20,B,0
+1286,bkavita,B. Kavita,1.0,1,dev,20,B,1
+1287,bkavita,B. Kawiver,0.5,0,dev,20,B,0
+1288,bkavita,13 . Kouvita,0.5714285714285714,0,dev,20,B,0

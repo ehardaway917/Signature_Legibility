@@ -1,0 +1,21 @@
+{
+ "selected": "CNN (words)",
+ "rule": "max HF-dev PR-AUC, baselines excluded",
+ "locked_at": "2026-11-10 17:33",
+ "config": {
+  "img_size": 128,
+  "epochs": 10,
+  "batch_size": 64,
+  "no_amp": false,
+  "cnn_seeds": [
+   42,
+   43,
+   44
+  ],
+  "svm_max_train": 10000,
+  "rf_trees": 300,
+  "finetune_epochs": 8,
+  "dark_frac_max": 0.35,
+  "seed": 42
+ }
+}
